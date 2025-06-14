@@ -1,1 +1,1 @@
-Image Classification Model Using TensorFlow & MobileNetV2 A deep learning model has been developed using TensorFlow with MobileNetV2 for transfer learning. The dataset is structured for classification, and the model is fine-tuned to enhance accuracy. Evaluation metrics include accuracy, precision, and recall.
+A deep learning model has been developed using TensorFlow with MobileNetV2 for transfer learning. The dataset is structured for classification, and the model is fine-tuned to enhance accuracy. Evaluation metrics include accuracy, precision, and recall.
